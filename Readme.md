@@ -45,6 +45,11 @@
 * googlenet
 * efficientnet(b7、b8)
 * SVM
+## 結論
+* efficientnet b7 效果最好
+* googlenet 也不錯
+* svm尚未解決RGB三維問題
+* SEnet存model時有警告
 
 ## Reference:
 ### 參數設定
