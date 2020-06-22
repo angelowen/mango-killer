@@ -48,7 +48,7 @@
 ## 結論
 * efficientnet b7 效果最好
 * googlenet 也不錯
-* svm尚未解決RGB三維問題
+* svm可用1*1 conv解決RGB三維問題
 * SEnet存model時有警告
 
 ## Reference:
@@ -79,3 +79,5 @@ https://github.com/kakaobrain/fast-autoaugment/blob/master/FastAutoAugment/train
 https://github.com/facebookresearch/mixup-cifar10
 ### Others
 http://mirlab.org/users/yihsuan.chen/paper/untitled.pdf
+https://zhuanlan.zhihu.com/p/104992391
+
