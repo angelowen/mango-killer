@@ -85,5 +85,7 @@ https://www.kaggle.com/haqishen/gridmask
 
 ### 其他數據增強方法
 http://mirlab.org/users/yihsuan.chen/paper/untitled.pdf
+
 https://zhuanlan.zhihu.com/p/104992391
+
 https://github.com/CrazyVertigo/awesome-data-augmentation
