@@ -75,13 +75,24 @@ https://github.com/ildoonet/pytorch-randaugment
 https://github.com/tensorflow/models/tree/master/research/autoaugment
 
 https://github.com/kakaobrain/fast-autoaugment/blob/master/FastAutoAugment/train.py
-### Mixup
-https://github.com/facebookresearch/mixup-cifar10
+
 ### Cutout Mixup Labelsmoothing 實作方法
 https://blog.csdn.net/winycg/article/details/88410981
 
 ### gridmask實作
 https://www.kaggle.com/haqishen/gridmask
+
+### augmix 實作
+https://github.com/google-research/augmix/blob/master/cifar.py
+
+### Cutmix
+https://github.com/clovaai/CutMix-PyTorch/blob/master/train.py
+
+### Mixup
+https://github.com/facebookresearch/mixup-cifar10
+
+### augmentor
+https://github.com/mdbloice/Augmentor
 
 ### 其他數據增強方法
 http://mirlab.org/users/yihsuan.chen/paper/untitled.pdf
