@@ -100,3 +100,7 @@ http://mirlab.org/users/yihsuan.chen/paper/untitled.pdf
 https://zhuanlan.zhihu.com/p/104992391
 
 https://github.com/CrazyVertigo/awesome-data-augmentation
+
+Fmix可嘗試
+https://github.com/ecs-vlc/FMix/
+
